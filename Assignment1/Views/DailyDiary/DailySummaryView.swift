@@ -1,5 +1,5 @@
 // NurseryConnect | DailySummaryView.swift
-// End-of-day digest per case study UC-18 / FR-18.
+// End-of-day digest aligned to daily summary requirements.
 // EYFS coverage chart (Swift Charts), wellbeing timeline, allergen summary,
 // stats grid, and ShareLink for parent communication.
 

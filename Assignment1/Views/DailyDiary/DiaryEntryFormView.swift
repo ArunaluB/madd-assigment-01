@@ -1,5 +1,5 @@
 // NurseryConnect | DiaryEntryFormView.swift
-// Full case study compliance: arrival/departure/milestone entry types,
+// Full diary compliance: arrival/departure/milestone entry types,
 // allergen confirmation for meals, child selector, auto-dismiss on save.
 // EYFS 2024 Section 7.3 — all 9 diary log types.
 

@@ -13,7 +13,7 @@ struct AppConfig {
     static let nurseryName = "Little Stars Nursery & Daycare"
 }
 
-// MARK: - Color Palette (from Case Study Design Spec)
+// MARK: - Color Palette (project design spec)
 extension Color {
     // Primary Colors
     static let ncPrimary = Color(hex: "4ECDC4")        // Soft Teal - trust, growth, calm

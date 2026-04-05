@@ -1,5 +1,5 @@
 // NurseryConnect | DailyDiaryView.swift
-// Full case study timeline with child selector, wellbeing slots,
+// Full diary timeline with child selector, wellbeing slots,
 // EYFS area tags, allergen warnings, and timeline visual.
 // EYFS 2024 Section 7.3 — daily diary module.
 

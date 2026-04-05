@@ -85,7 +85,7 @@ struct IncidentFormView: View {
         }
     }
 
-    // MARK: - Date/Time Section (Non-Editable per Case Study Step 3)
+    // MARK: - Date/Time Section (Non-Editable for consistency)
     private var dateTimeSection: some View {
         VStack(alignment: .leading, spacing: 8) {
             sectionHeader(icon: "clock.fill", title: "Date & Time", color: Color.ncPrimary)
